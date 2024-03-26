@@ -1,0 +1,8 @@
+home_ownership
+MORTGAGE    558699
+RENT        448847
+OWN         125235
+ANY            768
+OTHER           88
+NONE            28
+Name: count, dtype: int64

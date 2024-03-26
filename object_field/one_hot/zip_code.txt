@@ -1,0 +1,13 @@
+zip_code
+945xx    12198
+750xx    12090
+112xx    11726
+606xx    10306
+300xx    10157
+         ...  
+819xx        1
+504xx        1
+522xx        1
+510xx        1
+938xx        1
+Name: count, Length: 936, dtype: int64

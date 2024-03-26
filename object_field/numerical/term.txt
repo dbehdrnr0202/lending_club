@@ -1,0 +1,4 @@
+term
+ 36 months    846403
+ 60 months    287262
+Name: count, dtype: int64

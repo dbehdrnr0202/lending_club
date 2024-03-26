@@ -1,0 +1,16 @@
+purpose(14 values)
+debt_consolidation    648300
+credit_card           251730
+home_improvement       75174
+other                  69046
+major_purchase         25495
+medical                13778
+small_business         12550
+car                    12240
+vacation                8140
+moving                  7965
+house                   6922
+wedding                 1339
+renewable_energy         806
+educational              180
+Name: count, dtype: int64

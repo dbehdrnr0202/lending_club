@@ -1,0 +1,4 @@
+application_type
+Individual    1089420
+Joint App       44245
+Name: count, dtype: int64
