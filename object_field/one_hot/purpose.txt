@@ -1,4 +1,4 @@
-purpose(14 values)
+purpose(14)
 debt_consolidation    648300
 credit_card           251730
 home_improvement       75174

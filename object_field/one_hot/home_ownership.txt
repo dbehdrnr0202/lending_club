@@ -1,4 +1,4 @@
-home_ownership
+home_ownership(6)
 MORTGAGE    558699
 RENT        448847
 OWN         125235
