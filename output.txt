@@ -1,0 +1,436 @@
+==========================================(0, 'deferral_term')==========
+======value_count======
+deferral_term
+2.0    71958
+3.0     7925
+4.0     6146
+0.0        7
+Name: count, dtype: int64
+======Null percentage======
+95.09848771858861
+======NaN percentage======
+95.09848771858861
+======data head======
+0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    2.0
+Name: deferral_term, dtype: float64
+==========================================(1, 'hardship_amount')==========
+======value_count======
+hardship_amount
+0.00       78242
+1225.24       61
+317.12        50
+360.23        48
+306.31        42
+           ...  
+290.18         1
+523.09         1
+126.17         1
+1089.03        1
+390.32         1
+Name: count, Length: 15576, dtype: int64
+======Null percentage======
+93.78275446577356
+======NaN percentage======
+93.78275446577356
+======data head======
+0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    0.0
+Name: hardship_amount, dtype: float64
+==========================================(2, 'hardship_start_date')==========
+======value_count======
+hardship_start_date
+Apr-2020    62461
+May-2020    15589
+Sep-2017     1431
+Oct-2017      615
+Oct-2018      307
+Nov-2017      296
+Aug-2018      247
+Sep-2018      238
+Jun-2017      234
+Jul-2018      223
+Nov-2018      222
+May-2017      222
+Jan-2019      215
+Aug-2017      213
+Dec-2017      205
+Jan-2018      192
+Dec-2019      176
+Jan-2020      176
+Dec-2018      170
+Feb-2019      167
+Jul-2017      163
+Mar-2019      163
+Jul-2019      162
+Oct-2019      158
+Nov-2019      156
+May-2019      153
+Aug-2019      150
+Feb-2018      147
+Sep-2019      141
+Apr-2019      138
+Mar-2018      137
+Jun-2018      133
+Jun-2019      129
+Apr-2018      122
+May-2018      121
+Mar-2020      100
+Feb-2020       65
+Oct-2020       25
+Aug-2020       19
+Jul-2020       17
+Sep-2020       14
+Jun-2020       11
+Feb-2017        5
+Mar-2017        4
+Apr-2017        3
+Jan-2017        1
+Name: count, dtype: int64
+======Null percentage======
+95.09848771858861
+======NaN percentage======
+95.09848771858861
+======data head======
+0         NaN
+1         NaN
+2         NaN
+3         NaN
+4    May-2020
+Name: hardship_start_date, dtype: object
+==========================================(3, 'hardship_end_date')==========
+======value_count======
+hardship_end_date
+Jun-2020    47634
+Jul-2020    20208
+May-2020     5495
+Aug-2020     4719
+Dec-2017      985
+Nov-2017      826
+Jan-2018      419
+Dec-2018      288
+Jan-2019      257
+Feb-2018      245
+Aug-2017      245
+Oct-2018      239
+Oct-2017      237
+Nov-2018      229
+Apr-2020      229
+Mar-2018      214
+Sep-2017      205
+Apr-2019      204
+Mar-2019      194
+Feb-2019      187
+Sep-2018      167
+Feb-2020      166
+May-2019      162
+Mar-2020      162
+Apr-2018      157
+Dec-2019      155
+Jan-2020      154
+Sep-2019      151
+May-2018      149
+Oct-2019      147
+Jun-2019      144
+Jul-2019      142
+Nov-2019      142
+Aug-2018      140
+Aug-2019      140
+Jun-2018      137
+Jul-2018      118
+Jul-2017      102
+Sep-2020       30
+Jun-2017       29
+Oct-2020       28
+Dec-2020       20
+Nov-2020       13
+Jan-2021       11
+May-2017        5
+Apr-2017        5
+Mar-2017        1
+Name: count, dtype: int64
+======Null percentage======
+95.09848771858861
+======NaN percentage======
+95.09848771858861
+======data head======
+0         NaN
+1         NaN
+2         NaN
+3         NaN
+4    Jul-2020
+Name: hardship_end_date, dtype: object
+==========================================(4, 'payment_plan_start_date')==========
+======value_count======
+payment_plan_start_date
+Apr-2020    46614
+May-2020    21165
+Mar-2020     5151
+Jun-2020     5137
+Sep-2017     1010
+Oct-2017      933
+Nov-2017      395
+Oct-2018      276
+Nov-2018      265
+Aug-2018      256
+Sep-2018      238
+Dec-2017      236
+Jun-2017      235
+Feb-2020      217
+Feb-2019      208
+Jul-2017      200
+Dec-2018      193
+Jan-2018      191
+Jan-2019      188
+Feb-2018      177
+Aug-2017      175
+Dec-2019      167
+Jul-2018      166
+Jan-2020      164
+Oct-2019      158
+Nov-2019      158
+Mar-2019      155
+Aug-2019      153
+Sep-2019      146
+Apr-2019      144
+Jun-2019      143
+Jul-2019      139
+Apr-2018      136
+May-2019      136
+May-2017      126
+Mar-2018      125
+May-2018      124
+Jun-2018      119
+Jul-2020       33
+Aug-2020       26
+Oct-2020       19
+Sep-2020       16
+Nov-2020       11
+Mar-2017        6
+Feb-2017        4
+Apr-2017        2
+Name: count, dtype: int64
+======Null percentage======
+95.09848771858861
+======NaN percentage======
+95.09848771858861
+======data head======
+0         NaN
+1         NaN
+2         NaN
+3         NaN
+4    May-2020
+Name: payment_plan_start_date, dtype: object
+==========================================(5, 'hardship_length')==========
+======value_count======
+hardship_length
+2.0    71958
+3.0     7925
+4.0     6146
+0.0        7
+Name: count, dtype: int64
+======Null percentage======
+95.09848771858861
+======NaN percentage======
+95.09848771858861
+======data head======
+0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    2.0
+Name: hardship_length, dtype: float64
+==========================================(6, 'hardship_dpd')==========
+======value_count======
+hardship_dpd
+0.0     71361
+3.0       788
+7.0       777
+6.0       708
+5.0       696
+9.0       656
+1.0       628
+11.0      618
+8.0       585
+13.0      556
+12.0      541
+4.0       512
+2.0       508
+16.0      493
+14.0      472
+15.0      470
+18.0      454
+17.0      454
+20.0      426
+10.0      422
+23.0      409
+25.0      405
+22.0      404
+19.0      402
+21.0      385
+26.0      378
+28.0      358
+24.0      338
+27.0      316
+29.0      254
+30.0      105
+33.0       50
+34.0       25
+32.0       19
+31.0       19
+35.0       14
+37.0       12
+36.0        8
+38.0        4
+47.0        1
+67.0        1
+41.0        1
+54.0        1
+43.0        1
+Name: count, dtype: int64
+======Null percentage======
+95.09854468906936
+======NaN percentage======
+95.09854468906936
+======data head======
+0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    0.0
+Name: hardship_dpd, dtype: float64
+==========================================(7, 'hardship_loan_status')==========
+======value_count======
+hardship_loan_status
+ACTIVE                69831
+GRACE_CURRENT          6955
+Late (16-30 days)      2606
+INCOLLECTION           2074
+In Grace Period        1543
+Current                1365
+DELINQUENT              836
+CURRENT                 434
+Late (31-120 days)      249
+Issued                    6
+PIPELINE                  4
+OTHER                     4
+ISSUED                    1
+Name: count, dtype: int64
+======Null percentage======
+95.10577994012402
+======NaN percentage======
+95.10577994012402
+======data head======
+0       NaN
+1       NaN
+2       NaN
+3       NaN
+4    ACTIVE
+Name: hardship_loan_status, dtype: object
+==========================================(8, 'orig_projected_additional_accrued_interest')==========
+======value_count======
+orig_projected_additional_accrued_interest
+0.00000       6979
+141.99000       23
+364.54000       20
+65.32000        19
+342.02000       18
+              ... 
+558.05000        1
+703.90000        1
+646.11000        1
+1716.68000       1
+289.21878        1
+Name: count, Length: 65752, dtype: int64
+======Null percentage======
+93.87681272948421
+======NaN percentage======
+93.87681272948421
+======data head======
+0       NaN
+1       NaN
+2       NaN
+3       NaN
+4    413.83
+Name: orig_projected_additional_accrued_interest, dtype: float64
+==========================================(9, 'hardship_payoff_balance_amount')==========
+======value_count======
+hardship_payoff_balance_amount
+0.00        6936
+0.01           4
+5300.70        4
+24349.76       4
+5945.30        3
+            ... 
+14367.76       1
+5525.03        1
+8299.60        1
+24816.64       1
+3676.12        1
+Name: count, Length: 99811, dtype: int64
+======Null percentage======
+93.78275446577356
+======NaN percentage======
+93.78275446577356
+======data head======
+0         NaN
+1         NaN
+2         NaN
+3         NaN
+4    11025.25
+Name: hardship_payoff_balance_amount, dtype: float64
+==========================================(10, 'hardship_last_payment_amount')==========
+======value_count======
+hardship_last_payment_amount
+0.00       509
+1225.24    330
+306.31     198
+317.12     196
+814.70     190
+          ... 
+594.69       1
+333.41       1
+194.37       1
+300.96       1
+1090.59      1
+Name: count, Length: 37251, dtype: int64
+======Null percentage======
+93.78275446577356
+======NaN percentage======
+93.78275446577356
+======data head======
+0      NaN
+1      NaN
+2      NaN
+3      NaN
+4    54.62
+Name: hardship_last_payment_amount, dtype: float64
+==========================================(11, 'debt_settlement_flag')==========
+======value_count======
+debt_settlement_flag
+N    1724502
+Y      30792
+Name: count, dtype: int64
+======Null percentage======
+5.697048074540177e-05
+======NaN percentage======
+5.697048074540177e-05
+======data head======
+0    N
+1    N
+2    Y
+3    N
+4    N
+Name: debt_settlement_flag, dtype: object
+'debt_settlement_flag_date' debt_settlement_flag_date
+'settlement_status' settlement_status
+'settlement_date' settlement_date
+'settlement_amount' settlement_amount
+'settlement_percentage' settlement_percentage
+'settlement_term' settlement_term
