@@ -1,0 +1,12 @@
+open_acc_6m
+open_act_il
+open_il_12m
+open_il_24m
+total_bal_il
+open_rv_12m
+open_rv_24m
+max_bal_bc
+all_util
+total_cu_tl
+mths_since_rcnt_il
+2015년 기준
