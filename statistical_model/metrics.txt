@@ -1,0 +1,40 @@
+==model with grid_search(metric accuracy)
+train accuracy: 0.802
+train recall: 0.031
+train precision: 0.710
+train f1: 0.060
+validation accuracy: 0.800
+validation recall: 0.026
+validation precision: 0.595
+validation f1: 0.050
+
+==model with grid_search(metric f1)
+train accuracy: 0.802
+train recall: 0.032
+train precision: 0.693
+train f1: 0.061
+validation accuracy: 0.799
+validation recall: 0.025
+validation precision: 0.583
+validation f1: 0.048
+
+==model with grid_search(metric precision)
+train accuracy: 0.798
+train recall: 0.004
+train precision: 0.679
+train f1: 0.007
+validation accuracy: 0.798
+validation recall: 0.004
+validation precision: 0.618
+validation f1: 0.007
+
+
+==model without grid_search
+train accuracy: 0.999
+train recall: 0.995
+train precision: 1.000
+train f1: 0.998
+validation accuracy: 0.798
+validation recall: 0.072
+validation precision: 0.505
+validation f1: 0.126
