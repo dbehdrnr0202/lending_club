@@ -16,3 +16,8 @@ avg Validation F1-score: 0.8016668438911438
 avg Validation recall: 0.8016669034957886
 avg Validation precision: 0.8016669034957886
 
+==model with early_stopping_binary_reversed(min_delta:0.001)
+Validation accuracy: 0.8008323871041854
+Validation F1-score: 0.8885168304246
+Validation recall: 0.9946788482834994
+Validation precision: 0.8028307494290682
