@@ -21,3 +21,16 @@ Validation accuracy: 0.8008323871041854
 Validation F1-score: 0.8885168304246
 Validation recall: 0.9946788482834994
 Validation precision: 0.8028307494290682
+
+============MinMaxScaler
+==model with early_stopping_binary_reversed(min_delta=0.001)
+avg Validation accuracy: 0.8003181219100952
+avg Validation F1-score: 0.8878153990154173
+avg Validation recall: 0.990239539975939
+avg Validation precision: 0.8045989161544747
+
+==with_earlystopping001_0423(binary_minmaxscaler_undersampling)
+avg Validation accuracy: 0.7916842460632324
+avg Validation F1-score: 0.8807812023014765
+avg Validation recall: 0.9793881109367459
+avg Validation precision: 0.8002263966610055
