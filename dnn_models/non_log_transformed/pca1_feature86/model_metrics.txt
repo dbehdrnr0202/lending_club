@@ -1,0 +1,18 @@
+==model without early_stopping
+avg Validation accuracy: 0.8025051116943359
+avg Validation F1-score: 0.8025063633918762
+avg Validation recall: 0.8025064706802368
+avg Validation precision: 0.8025064706802368
+
+==model with early_stopping(min_delta:0.001)
+avg Validation accuracy: 0.8012857079505921
+avg Validation F1-score: 0.801283848285675
+avg Validation recall: 0.8012839555740356
+avg Validation precision: 0.8012839555740356
+
+==model with early_stopping(min_delta:0.0001)
+avg Validation accuracy: 0.8016281127929688
+avg Validation F1-score: 0.8016246438026429
+avg Validation recall: 0.8016247153282166
+avg Validation precision: 0.8016247153282166
+

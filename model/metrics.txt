@@ -1,0 +1,40 @@
+RS1
+avg Validation accuracy: 0.6998671486191625
+avg Validation recall: 0.5045630452368979
+avg Validation precision: 0.3397744079698324
+avg Validation F1-score: 0.40340449759575436
+avg Validation AUC: 0.62694561554406
+avg Validation ROE: 3723450786.1877184
+
+RS2
+avg Validation accuracy: 0.705207870873956
+avg Validation recall: 0.485099591140652
+avg Validation precision: 0.3416662364522349
+avg Validation F1-score: 0.39819281787946165
+avg Validation AUC: 0.6230250921527333
+avg Validation ROE: 3729179480.089061
+
+RS3
+avg Validation accuracy: 0.7060093463268868
+avg Validation recall: 0.48277324704287555
+avg Validation precision: 0.3437123523223632
+avg Validation F1-score: 0.3971236402149244
+avg Validation AUC: 0.6226587259369647
+avg Validation ROE: 3730047841.881414
+
+RS4
+avg Validation accuracy: 0.7068125678685029
+avg Validation recall: 0.4829350416511796
+avg Validation precision: 0.343940024741225
+avg Validation F1-score: 0.3983144612981534
+avg Validation AUC: 0.6232224508527406
+avg Validation ROE: 3730384426.9135704
+
+RS5
+avg Validation accuracy: 0.7031728440343914
+avg Validation recall: 0.4939414478431029
+avg Validation precision: 0.3412304629686657
+avg Validation F1-score: 0.4009131705425436
+avg Validation AUC: 0.6250512133948218
+avg Validation ROE: 3726102257.8844395
+

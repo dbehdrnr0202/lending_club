@@ -1,1 +1,7 @@
-data
+data/
+lending_club_2020_train.csv
+modified_lending_club.csv
+modified_train_0417.csv
+plots/
+texts
+statistical_model/
